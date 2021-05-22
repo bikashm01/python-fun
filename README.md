@@ -10,7 +10,7 @@ A sample app consisting of a command line interface where user can provide any E
 1. Launch the App:
 
     ```sh
-    $ python basics.py
+    $ python thesaurus.py
     ```
 
 ## App 2: Coming soon
