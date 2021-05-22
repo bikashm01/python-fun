@@ -12,7 +12,7 @@ A sample app consisting of a command line interface where user can provide any E
     ```sh
     $ python thesaurus.py
     ```
-   
+</details>   
     
 ## App 02: Building the English Thesaurus using MySQL database
 
@@ -26,6 +26,6 @@ THe same app that we have developed earlier, but it involves data accessed from 
     ```sh
     $ python thesaurus.py
     ```
-   
+</details>   
     
 ## App 03: Coming soon
