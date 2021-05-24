@@ -1,5 +1,5 @@
 # python-fun
-Creating some simple Apps using Python to explore and learn and practice how python can be used multiple types of projects.
+Creating some simple Apps using Python to explore and learn and practice how python can be used multiple types of projects in various domain.
 
 ## App 01: Building an English Thesaurus
 
